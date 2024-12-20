@@ -17,16 +17,6 @@ Uma página de mensagem positiva e de reconhecimento, estilizada para destacar c
 	•	Estilizar textos e elementos visuais para melhorar a experiência do usuário.
 	•	Aplicar conceitos de tipografia e alinhamento.
 
-📸 Capturas de Tela
-
-Versão Desktop 🖥️
-
-Versão Mobile 📱
-
-🤝 Conecte-se comigo
-
-LinkedIn | Portfólio
-
 💡 Gostou do projeto? Deixe seu feedback ou contribua no repositório!
 
 #DevClub #HTML5 #CSS3 #SegundoProjeto #WebDevelopment
